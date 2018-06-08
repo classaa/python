@@ -11,5 +11,3 @@ expect {
 	"not exist." { puts "err" }
 	"changed." {puts "ok" }
 }
-
-
